@@ -13,3 +13,4 @@ Requirements:
 5)Numpy
 6)Pandas
 7)Matplotlib
+8)EMNIST
